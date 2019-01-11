@@ -1,0 +1,16 @@
+Image segmentation - Wikipedia
+https://en.m.wikipedia.org/wiki/Image_segmentation
+
+Audio Processing
+https://towardsdatascience.com/audio-processing-in-tensorflow-208f1a4103aa
+
+Recurrent neural nets
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+Video Classification
+https://blog.coast.ai/continuous-video-classification-with-tensorflow-inception-and-recurrent-nets-250ba9ff6b85
+https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5
+
+
+Sign Language
+https://www.youtube.com/watch?v=JH29ymsMBXU
